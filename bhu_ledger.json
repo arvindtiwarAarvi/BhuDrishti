@@ -1,0 +1,554 @@
+[
+  {
+    "index": 0,
+    "timestamp": "2026-08-09T16:12:55.904405+00:00",
+    "plot_key": "Prayagraj|Koraon|Koodar|30",
+    "record": {
+      "district": "Prayagraj",
+      "tehsil": "Koraon",
+      "village": "Koodar",
+      "plot_no": "30",
+      "coordinates": [
+        [
+          82.068,
+          25.0075
+        ],
+        [
+          82.0695,
+          25.0075
+        ],
+        [
+          82.0695,
+          25.0088
+        ],
+        [
+          82.0688,
+          25.0088
+        ],
+        [
+          82.0688,
+          25.0092
+        ],
+        [
+          82.068,
+          25.0092
+        ],
+        [
+          82.068,
+          25.0075
+        ]
+      ],
+      "area_sqm": 25369.65,
+      "report_summary": "Plot 30: Boundary extracted and overlaid on satellite view. Fertility indication: Medium. Water: Not detected in prototype mode. Full AI Vision can refine this when API key + map image are available."
+    },
+    "hash": "2bd83b9bb7c1e896dfa913a16b382c0500517190b399306d2f4a9b95c5288f3a",
+    "prev_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+    "block_hash": "2c70e96b53629c5b8d3b92ed317ea68d0397ee69849fa3fca7b7e141ab44cc38"
+  },
+  {
+    "index": 1,
+    "timestamp": "2026-08-09T16:29:16.646425+00:00",
+    "plot_key": "Prayagraj|Koraon|Koodar|30",
+    "record": {
+      "district": "Prayagraj",
+      "tehsil": "Koraon",
+      "village": "Koodar",
+      "plot_no": "30",
+      "coordinates": [
+        [
+          82.068,
+          25.0075
+        ],
+        [
+          82.0695,
+          25.0075
+        ],
+        [
+          82.0695,
+          25.0088
+        ],
+        [
+          82.0688,
+          25.0088
+        ],
+        [
+          82.0688,
+          25.0092
+        ],
+        [
+          82.068,
+          25.0092
+        ],
+        [
+          82.068,
+          25.0075
+        ]
+      ],
+      "area_sqm": 25369.65,
+      "report_summary": "Plot 30: Boundary extracted and overlaid on satellite view. Fertility indication: Medium. Water: Not detected in prototype mode. Full AI Vision can refine this when API key + map image are available."
+    },
+    "hash": "2bd83b9bb7c1e896dfa913a16b382c0500517190b399306d2f4a9b95c5288f3a",
+    "prev_hash": "2bd83b9bb7c1e896dfa913a16b382c0500517190b399306d2f4a9b95c5288f3a",
+    "block_hash": "1361a7dc5b7874b1f9beb762a66fec48da8a73ed6242bd178e56f9dd92dab681"
+  },
+  {
+    "index": 2,
+    "timestamp": "2026-08-09T16:35:16.238895+00:00",
+    "plot_key": "Prayagraj|Koraon|Koodar|30",
+    "record": {
+      "district": "Prayagraj",
+      "tehsil": "Koraon",
+      "village": "Koodar",
+      "plot_no": "30",
+      "coordinates": [
+        [
+          82.068,
+          25.0075
+        ],
+        [
+          82.0695,
+          25.0075
+        ],
+        [
+          82.0695,
+          25.0088
+        ],
+        [
+          82.0688,
+          25.0088
+        ],
+        [
+          82.0688,
+          25.0092
+        ],
+        [
+          82.068,
+          25.0092
+        ],
+        [
+          82.068,
+          25.0075
+        ]
+      ],
+      "area_sqm": 25369.65,
+      "report_summary": "Plot 30: Boundary extracted and overlaid on satellite view. Fertility indication: Medium. Water: Not detected in prototype mode. Full AI Vision can refine this when API key + map image are available."
+    },
+    "hash": "2bd83b9bb7c1e896dfa913a16b382c0500517190b399306d2f4a9b95c5288f3a",
+    "prev_hash": "2bd83b9bb7c1e896dfa913a16b382c0500517190b399306d2f4a9b95c5288f3a",
+    "block_hash": "e68656bbe47057834ca9c04983f57ecd9e3e2c81e65f9e24251e89e3e97ea6bb"
+  },
+  {
+    "index": 3,
+    "timestamp": "2026-08-09T16:39:07.260953+00:00",
+    "plot_key": "Prayagraj|Koraon|Koodar|30",
+    "record": {
+      "district": "Prayagraj",
+      "tehsil": "Koraon",
+      "village": "Koodar",
+      "plot_no": "30",
+      "coordinates": [
+        [
+          82.068,
+          25.0075
+        ],
+        [
+          82.0695,
+          25.0075
+        ],
+        [
+          82.0695,
+          25.0088
+        ],
+        [
+          82.0688,
+          25.0088
+        ],
+        [
+          82.0688,
+          25.0092
+        ],
+        [
+          82.068,
+          25.0092
+        ],
+        [
+          82.068,
+          25.0075
+        ]
+      ],
+      "area_sqm": 25369.65,
+      "report_summary": "Plot 30: Boundary extracted and overlaid on satellite view. Fertility indication: Medium. Water: Not detected in prototype mode. Full AI Vision can refine this when API key + map image are available."
+    },
+    "hash": "2bd83b9bb7c1e896dfa913a16b382c0500517190b399306d2f4a9b95c5288f3a",
+    "prev_hash": "2bd83b9bb7c1e896dfa913a16b382c0500517190b399306d2f4a9b95c5288f3a",
+    "block_hash": "7a2bb225e0cf91ac4a649e2df5faf073a84dd137d76493c16e538405ae06bc3f"
+  },
+  {
+    "index": 4,
+    "timestamp": "2026-08-09T16:42:51.132619+00:00",
+    "plot_key": "Prayagraj|Koraon|Koodar|30",
+    "record": {
+      "district": "Prayagraj",
+      "tehsil": "Koraon",
+      "village": "Koodar",
+      "plot_no": "30",
+      "coordinates": [
+        [
+          82.068,
+          25.0075
+        ],
+        [
+          82.0695,
+          25.0075
+        ],
+        [
+          82.0695,
+          25.0088
+        ],
+        [
+          82.0688,
+          25.0088
+        ],
+        [
+          82.0688,
+          25.0092
+        ],
+        [
+          82.068,
+          25.0092
+        ],
+        [
+          82.068,
+          25.0075
+        ]
+      ],
+      "area_sqm": 25369.65,
+      "report_summary": "Plot 30: Boundary extracted and overlaid on satellite view. Fertility indication: Medium. Water: Not detected in prototype mode. Full AI Vision can refine this when API key + map image are available."
+    },
+    "hash": "2bd83b9bb7c1e896dfa913a16b382c0500517190b399306d2f4a9b95c5288f3a",
+    "prev_hash": "2bd83b9bb7c1e896dfa913a16b382c0500517190b399306d2f4a9b95c5288f3a",
+    "block_hash": "a7a0aff65143ea2876a1cb68ba4459967f5e83e0cd2640faf73955c5c549f99a"
+  },
+  {
+    "index": 5,
+    "timestamp": "2026-08-11T10:16:35.197905+00:00",
+    "plot_key": "Prayagraj|Koraon|Koodar|30",
+    "record": {
+      "district": "Prayagraj",
+      "tehsil": "Koraon",
+      "village": "Koodar",
+      "plot_no": "30",
+      "coordinates": [
+        [
+          82.068,
+          25.0075
+        ],
+        [
+          82.0695,
+          25.0075
+        ],
+        [
+          82.0695,
+          25.0088
+        ],
+        [
+          82.0688,
+          25.0088
+        ],
+        [
+          82.0688,
+          25.0092
+        ],
+        [
+          82.068,
+          25.0092
+        ],
+        [
+          82.068,
+          25.0075
+        ]
+      ],
+      "area_sqm": 25369.65,
+      "report_summary": "Plot 30: Boundary extracted and overlaid on satellite view. Fertility indication: Medium. Water: Not detected in prototype mode. Full AI Vision can refine this when API key + map image are available."
+    },
+    "hash": "2bd83b9bb7c1e896dfa913a16b382c0500517190b399306d2f4a9b95c5288f3a",
+    "prev_hash": "2bd83b9bb7c1e896dfa913a16b382c0500517190b399306d2f4a9b95c5288f3a",
+    "block_hash": "a32e6f2f558ab78b05efc786df2b97485014d2a91bc293e233d1eb8751fbd882"
+  },
+  {
+    "index": 6,
+    "timestamp": "2026-08-12T13:47:51.478503+00:00",
+    "plot_key": "Prayagraj|Koraon|Koodar|30",
+    "record": {
+      "district": "Prayagraj",
+      "tehsil": "Koraon",
+      "village": "Koodar",
+      "plot_no": "30",
+      "coordinates": [
+        [
+          82.068,
+          25.0075
+        ],
+        [
+          82.0695,
+          25.0075
+        ],
+        [
+          82.0695,
+          25.0088
+        ],
+        [
+          82.0688,
+          25.0088
+        ],
+        [
+          82.0688,
+          25.0092
+        ],
+        [
+          82.068,
+          25.0092
+        ],
+        [
+          82.068,
+          25.0075
+        ]
+      ],
+      "area_sqm": 25369.65,
+      "report_summary": "Plot 30: Boundary extracted and overlaid on satellite view. Fertility indication: Medium. Water: Not detected in prototype mode. Full AI Vision can refine this when API key + map image are available."
+    },
+    "hash": "2bd83b9bb7c1e896dfa913a16b382c0500517190b399306d2f4a9b95c5288f3a",
+    "prev_hash": "2bd83b9bb7c1e896dfa913a16b382c0500517190b399306d2f4a9b95c5288f3a",
+    "block_hash": "ac723856cc89bcc822cb8b220a3b1ad9d1e8bb56293fe5d6daad8c695b0d6612"
+  },
+  {
+    "index": 7,
+    "timestamp": "2026-08-12T17:43:29.417017+00:00",
+    "plot_key": "Prayagraj|Koraon|Koodar|30",
+    "record": {
+      "district": "Prayagraj",
+      "tehsil": "Koraon",
+      "village": "Koodar",
+      "plot_no": "30",
+      "coordinates": [
+        [
+          82.068,
+          25.0075
+        ],
+        [
+          82.0695,
+          25.0075
+        ],
+        [
+          82.0695,
+          25.0088
+        ],
+        [
+          82.0688,
+          25.0088
+        ],
+        [
+          82.0688,
+          25.0092
+        ],
+        [
+          82.068,
+          25.0092
+        ],
+        [
+          82.068,
+          25.0075
+        ]
+      ],
+      "area_sqm": 25369.65,
+      "report_summary": "Plot 30: Boundary extracted and overlaid on satellite view. Fertility indication: Medium. Water: Not detected in prototype mode. Full AI Vision can refine this when API key + map image are available."
+    },
+    "hash": "2bd83b9bb7c1e896dfa913a16b382c0500517190b399306d2f4a9b95c5288f3a",
+    "prev_hash": "2bd83b9bb7c1e896dfa913a16b382c0500517190b399306d2f4a9b95c5288f3a",
+    "block_hash": "90858befe834f06b7e33df18fd9ed8df4ef0135dc61f9d34a39ff9b0ff23d842"
+  },
+  {
+    "index": 8,
+    "timestamp": "2026-08-13T04:28:55.293183+00:00",
+    "plot_key": "Prayagraj|Koraon|Koodar|30",
+    "record": {
+      "district": "Prayagraj",
+      "tehsil": "Koraon",
+      "village": "Koodar",
+      "plot_no": "30",
+      "coordinates": [
+        [
+          82.068,
+          25.0075
+        ],
+        [
+          82.0695,
+          25.0075
+        ],
+        [
+          82.0695,
+          25.0088
+        ],
+        [
+          82.0688,
+          25.0088
+        ],
+        [
+          82.0688,
+          25.0092
+        ],
+        [
+          82.068,
+          25.0092
+        ],
+        [
+          82.068,
+          25.0075
+        ]
+      ],
+      "area_sqm": 25369.65,
+      "report_summary": "Plot 30: Boundary extracted and overlaid on satellite view. Fertility indication: Medium. Water: Not detected in prototype mode. Full AI Vision can refine this when API key + map image are available."
+    },
+    "hash": "2bd83b9bb7c1e896dfa913a16b382c0500517190b399306d2f4a9b95c5288f3a",
+    "prev_hash": "2bd83b9bb7c1e896dfa913a16b382c0500517190b399306d2f4a9b95c5288f3a",
+    "block_hash": "bfe888b3c004bb92cf4164cd5b6bd17abe43aeddd6adbdb6520fe56a78024bbc"
+  },
+  {
+    "index": 9,
+    "timestamp": "2026-08-14T13:17:19.438784+00:00",
+    "plot_key": "Prayagraj|Koraon|Koodar|30",
+    "record": {
+      "district": "Prayagraj",
+      "tehsil": "Koraon",
+      "village": "Koodar",
+      "plot_no": "30",
+      "coordinates": [
+        [
+          82.068,
+          25.0075
+        ],
+        [
+          82.0695,
+          25.0075
+        ],
+        [
+          82.0695,
+          25.0088
+        ],
+        [
+          82.0688,
+          25.0088
+        ],
+        [
+          82.0688,
+          25.0092
+        ],
+        [
+          82.068,
+          25.0092
+        ],
+        [
+          82.068,
+          25.0075
+        ]
+      ],
+      "area_sqm": 25369.65,
+      "report_summary": "Plot 30: Boundary extracted and overlaid on satellite view. Fertility indication: Medium. Water: Not detected in prototype mode. Full AI Vision can refine this when API key + map image are available."
+    },
+    "hash": "2bd83b9bb7c1e896dfa913a16b382c0500517190b399306d2f4a9b95c5288f3a",
+    "prev_hash": "2bd83b9bb7c1e896dfa913a16b382c0500517190b399306d2f4a9b95c5288f3a",
+    "block_hash": "f4b33c674cedefe4181ce3add611a0b09ab5fbdfecfb186f9b71a77603ff28f9"
+  },
+  {
+    "index": 10,
+    "timestamp": "2026-08-14T14:29:43.352620+00:00",
+    "plot_key": "Prayagraj|Koraon|Koodar|30",
+    "record": {
+      "district": "Prayagraj",
+      "tehsil": "Koraon",
+      "village": "Koodar",
+      "plot_no": "30",
+      "coordinates": [
+        [
+          82.068,
+          25.0075
+        ],
+        [
+          82.0695,
+          25.0075
+        ],
+        [
+          82.0695,
+          25.0088
+        ],
+        [
+          82.0688,
+          25.0088
+        ],
+        [
+          82.0688,
+          25.0092
+        ],
+        [
+          82.068,
+          25.0092
+        ],
+        [
+          82.068,
+          25.0075
+        ]
+      ],
+      "area_sqm": 25369.65,
+      "report_summary": "Plot 30: Boundary extracted and overlaid on satellite view. Fertility indication: Medium. Water: Not detected in prototype mode. Full AI Vision can refine this when API key + map image are available."
+    },
+    "hash": "2bd83b9bb7c1e896dfa913a16b382c0500517190b399306d2f4a9b95c5288f3a",
+    "prev_hash": "2bd83b9bb7c1e896dfa913a16b382c0500517190b399306d2f4a9b95c5288f3a",
+    "block_hash": "086fa53d598a5c15340e61e86e03b160333fa8088930a708812c6e796b7ef802"
+  },
+  {
+    "index": 11,
+    "timestamp": "2026-08-14T14:41:13.482177+00:00",
+    "plot_key": "Prayagraj|Koraon|Koodar|30",
+    "record": {
+      "district": "Prayagraj",
+      "tehsil": "Koraon",
+      "village": "Koodar",
+      "plot_no": "30",
+      "coordinates": [
+        [
+          82.068,
+          25.0075
+        ],
+        [
+          82.0695,
+          25.0075
+        ],
+        [
+          82.0695,
+          25.0088
+        ],
+        [
+          82.0688,
+          25.0088
+        ],
+        [
+          82.0688,
+          25.0092
+        ],
+        [
+          82.068,
+          25.0092
+        ],
+        [
+          82.068,
+          25.0075
+        ]
+      ],
+      "area_sqm": 25369.65,
+      "report_summary": "Plot 30: Boundary extracted and overlaid on satellite view. Fertility indication: Medium. Water: Not detected in prototype mode. Full AI Vision can refine this when API key + map image are available."
+    },
+    "hash": "2bd83b9bb7c1e896dfa913a16b382c0500517190b399306d2f4a9b95c5288f3a",
+    "prev_hash": "2bd83b9bb7c1e896dfa913a16b382c0500517190b399306d2f4a9b95c5288f3a",
+    "block_hash": "e6fa81001fa3893a156a416a8a87528b97b1c1952bb23231f71a26d34a3067d8"
+  }
+]
